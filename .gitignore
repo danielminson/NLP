@@ -128,3 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .DS_Store
+Aulas/datasets/artists-data.csv
+Aulas/datasets/lyrics-data.csv
